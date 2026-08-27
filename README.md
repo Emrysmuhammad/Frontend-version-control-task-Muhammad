@@ -197,7 +197,7 @@ Can be deployed to Vercel, GitHub Pages, or any static hosting.
 ## Summary Statistics
 
 - **Total Branches Created:** 4 (main + 3 features)
-- **Total Commits:** 17 ()
+- **Total Commits:** 18 (+1)
 - **Pull Requests:** 2 (all merged)
 - **Commits Per Branch:** 3 (feature branches)
 - **Revert Commits:** 1
@@ -218,4 +218,12 @@ Can be deployed to Vercel, GitHub Pages, or any static hosting.
 
 ---
 
-**Status:** ✅ COMPLETED & READY FOR SUBMISSION
+**Status:** ✅ COMPLETED 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/86d4e420-4db0-4059-b2dd-cd09925c2192" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c95515c6-27f6-466f-9b9c-30eb79161d63" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/344cbe25-0466-4f72-bc5a-323eb36adecf" />
+
+
+
+
+
