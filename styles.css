@@ -96,3 +96,18 @@ main {
 .card p {
     color: #666;
 }
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+}
+
+.card h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: #667eea;
+    transition: color 0.3s ease;
+}
+
+.card:hover h3 {
+    color: #764ba2;
+}
